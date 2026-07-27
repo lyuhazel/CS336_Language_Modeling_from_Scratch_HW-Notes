@@ -1,5 +1,5 @@
-### CS336_Language_Modeling_from_Scratch_HW-Notes
-
+### CS336_Language_Modeling_from_Scratch_HW-Notes 
+##### Instructor: Prof. Tatsunori Hashimoto, Prof. Percy Liang | Spring 2026
 Self-paced study on CS336 Language Modeling from Scratch, consisting of reading notes and homework practices on Transformer, and Supervised Finetuning and Reinforcement Learning.
 
 
@@ -25,3 +25,6 @@ Perform filtering and deduplication to improve model performance.
 ###### Assignment 5: Alignment and Reasoning RL
 Apply supervised finetuning and reinforcement learning to train LMs to reason when solving math problems.
 Optional Part 2: implement and apply safety alignment methods such as DPO.
+
+
+Credits to Prof. Percy Liang, Tatsunori Hashimoto and CAs.
